@@ -1,0 +1,4 @@
+venv_docker_t
+.git
+db.sqlite3
+.env
